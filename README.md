@@ -83,7 +83,7 @@ EOBUNDLES
 
 ## Usage
 
-`image2pdf LANG[+LANG…] OUTPUT [OPTS] INPUT…`
+`images2pdf LANG[+LANG…] OUTPUT [OPTS] INPUT…`
 
 - `LANG`: Languages to detect for `ocrmypdf` given in standardized three-letter codes (ISO 639-2 Alpha-3).
   Multiple languages may be given by concatenating them using `+`, like `deu+eng`.
